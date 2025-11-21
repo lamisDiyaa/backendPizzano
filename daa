@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "3f23",
+      "cityName": "Pancrudo",
+      "date": "2025-10-07T11:17:38.617Z",
+      "emoji": "ES",
+      "country": "Spain",
+      "notes": "",
+      "position": {
+        "lat": 40.77353611209842,
+        "lng": -1.0590822994709017
+      }
+    },
+    {
+      "id": "101e",
+      "cityName": "Allensbach",
+      "date": "2025-10-07T15:20:23.479Z",
+      "emoji": "DE",
+      "country": "Germany",
+      "notes": "",
+      "position": {
+        "lat": 47.70273524404799,
+        "lng": 9.099975451827051
+      }
+    },
+    {
+      "id": "1ecf",
+      "cityName": "Caspe",
+      "date": "2025-11-20T19:33:57.952Z",
+      "emoji": "ES",
+      "country": "Spain",
+      "notes": "",
+      "position": {
+        "lat": 41.19092284526158,
+        "lng": -0.11206068098545076
+      }
+    }
+  ]
+}
